@@ -9,7 +9,7 @@ This fall, I'll be attending Stanford University, where I plan to study some com
 
 ## 🦕 What I've done before
 
-In high school, I competed in coding contests, built mobile apps, and interned at [J.B. Hunt](https://www.jbhunt.com), a Fortune-500 logistics company located in Northwest Arkansas. I won a [WWDC Scholarship](https://developer.apple.com/wwdc19/scholarships/), and my coding team "She++" became the first all-women team to win the [Arkansas High School Programming Competition](http://hspc.csce.uark.edu) in its 20+ year history.
+In high school, I competed in coding contests, built mobile apps, and interned at [J.B. Hunt](https://www.jbhunt.com), a Fortune-500 logistics company located in Northwest Arkansas. I won a [WWDC Scholarship](https://developer.apple.com/wwdc19/scholarships/), and my coding team "She++" became the first all-women team to win the Arkansas High School Programming Competition in its 20+ year history.
 
 I also co-founded [Allgirlithm](https://www.allgirlithm.org), an organization dedicated to making AI more accessible.
 
