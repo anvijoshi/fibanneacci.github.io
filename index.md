@@ -1,7 +1,7 @@
 ---
 ---
 
-## 🤷 What I do
+## 👩🏻‍💻 What I'm doing
 
 I'm majoring in Urban Planning with Computer Science & minoring in Comparative Media Studies. On campus, I dance, (try to) sing, & fry eggs at midnight with my friends.
 
