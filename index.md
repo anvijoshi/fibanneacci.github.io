@@ -3,9 +3,9 @@
 
 ## 👩🏻‍💻 What I'm doing
 
-I'm majoring in Urban Planning with Computer Science & minoring in Comparative Media Studies. On campus, I dance, (try to) sing, & fry eggs at midnight with my friends.
+This summer, I'm participating in Google's [Computer Science Summer Institute](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/), being mentored as part of the BUILT BY GIRLS [WAVE Program](https://www.builtbygirls.com/about-wave), and TAing for a coding / USACO camp.
 
-This summer, I’m doing technical marketing at [Gatsby](https://gatsbyjs.org/) & a retreat at the [Recurse Center](recurse.com). At the [Senseable City Lab](http://senseable.mit.edu/), I'm making a website to visualize air pollution data collected by sensors installed on garbage trucks and taxis.
+This fall, I'll be attending Stanford University, where I plan to study some combination of tech and humanities. I'm especially interested in data politics, AI ethics, and algorithmic bias.
 
 ## 🦕 What I've done before
 
