@@ -31,7 +31,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/A774426B-9E36-4445-9B8F-399C9A1A36C8.jpeg
 # 100-200 characters recommended
-greeting_text: Hi, I’m Anne! I want to design tech that creates positive social impact. In my free time, I love reading good articles and hearing others’ stories.
+greeting_text: Hi, I’m Anne! I want to design tech that creates positive social impact. In my free time, I love reading and hearing others’ stories.
 
 # show blog post excerpts on blog page
 show_excerpts: false
