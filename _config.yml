@@ -31,7 +31,7 @@ description: description for search engines and social media cards
 # for the homepage image + big text next to it
 greeting_image: /assets/A774426B-9E36-4445-9B8F-399C9A1A36C8.jpeg
 # 100-200 characters recommended
-greeting_text: Hey, I'm Point Theme! I'm a Jekyll theme for personal websites that are short & to the point. Fork it on Github, customize the styles and options, and enjoy!
+greeting_text: Hi, I’m Anne! I want to design tech that creates positive social impact; I’m especially interested in data politics, AI ethics, and algorithmic bias. I love reading good articles and hearing others’ stories.
 
 # show blog post excerpts on blog page
 show_excerpts: false
