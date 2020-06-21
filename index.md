@@ -19,4 +19,4 @@ Wanna chat? Feel free to reach out! I'm on Github ([@fibanneacci](https://github
 
 ## 📠 Fun facts
 
-- My full name (sans whitespace) is a prefix of "Annelida", the phylum of segmented worms.
+- My full name (sans whitespace) is a prefix of "Annelid", an "elongated segmented coelomate invertebrate" (source: [Merriam-Webster](https://www.merriam-webster.com/dictionary/annelid))
