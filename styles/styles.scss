@@ -102,19 +102,15 @@ img {
 }
 
 .avatar {
-  width: 7rem;
-  height: 7rem;
-  border-radius: 4rem;
+  width: 13rem;
+  height: 13rem;
+  border-radius: 8rem;
   margin-right: 1.5rem;
 }
 
 // homepage greeting component
 .greeting-container {
   display: flex;
-}
-
-.greeting-image {
-  margin: 10;
 }
 
 .greeting-container h3 {
