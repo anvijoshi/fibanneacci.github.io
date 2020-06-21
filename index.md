@@ -20,5 +20,4 @@ Wanna chat? Feel free to reach out! I'm on Github ([@fibanneacci](https://github
 ## 🤪 Fun facts
 
 - My full name (sans whitespace) is a prefix of "Annelid", an "elongated segmented coelomate invertebrate" (source: [Merriam-Webster](https://www.merriam-webster.com/dictionary/annelid))
-- I once tried to cook dandanmian, and substituted ghost-pepper sauce for chili oil, and tasting it made liquid stream from all my facial orifices simultaneously
-- I love Red Velvet (the artist, not the cake)
+- Once, I substituted ghost-pepper sauce for chili oil while cooking dandanmian; tasting it made liquid stream from all my facial orifices simultaneously
