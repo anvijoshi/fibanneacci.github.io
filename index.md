@@ -5,15 +5,13 @@
 
 This summer, I'm participating in Google's [Computer Science Summer Institute](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/), being mentored as part of the BUILT BY GIRLS [WAVE Program](https://www.builtbygirls.com/about-wave), and TAing for a coding / USACO camp.
 
-This fall, I'll be attending Stanford University, where I plan to study some combination of tech and humanities. I'm especially interested in data politics, AI ethics, and algorithmic bias.
+This fall, I'll be attending Stanford University, where I plan to study some combination of tech and the humanities. I'm especially interested in data politics, AI ethics, and algorithmic bias.
 
 ## 🦕 What I've done before
 
-Last summer, I interned at [Repl.it](https://repl.it/), an online code editor supporting 50+ programming languages & a community of 2 million makers.
+In high school, I competed in coding contests, built apps, and interned at [J.B. Hunt](https://www.jbhunt.com), a Fortune-500 transportation & logistics company located in Northwest Arkansas. I was a [WWDC Scholarship Winner](https://developer.apple.com/wwdc19/scholarships/) in 2019, and my coding team "She++" became the first all-women team to win the [Arkansas High School Programming Competition](http://hspc.csce.uark.edu) in its 20+ year history.
 
-During high school, I organized [hackathons](http://mahacks.com/) & attempted bioinformatics research. I founded [Science and Us](http://scienceandus.org/) to introduce teens to the careers and anti-disciplinary mindset of science communication.
-
-When I was 11, I loved Percy Jackson so much I ended up self-studying Modern Greek for 3 years, running a [linguistics Tumblr](http://subjunctivelymoody.tumblr.com/), and teaching myself Latin.
+I also co-founded [Allgirlithm](https://www.allgirlithm.org), an organization dedicated to making AI more accessible.
 
 ## 👋🏻 Say hi
 
