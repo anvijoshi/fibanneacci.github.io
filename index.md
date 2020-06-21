@@ -15,13 +15,8 @@ I also co-founded [Allgirlithm](https://www.allgirlithm.org), an organization de
 
 ## 👋🏻 Say hi
 
-Wanna chat? Feel free to reach out!
-
-- Source code: [@katavie/point-theme](http://github.com/katavie/point-theme)
-- [Issues](https://github.com/katavie/point-theme/issues)
+Wanna chat? Feel free to reach out! I'm on Github ([@fibanneacci](https://github.com/fibanneacci)), Medium ([@annelid](https://medium.com/@annelid)), Facebook, and LinkedIn.
 
 ## 📠 Fun facts
 
-- You can customize link colors, container width, and fonts in `styles/styles.scss`
-- This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
-- Be sure to look through the config file to change the site title, description, homepage greeting, and more
+- My full name (sans whitespace) is a prefix of "Annelida", the phylum of segmented worms.
