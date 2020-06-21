@@ -17,6 +17,8 @@ I also co-founded [Allgirlithm](https://www.allgirlithm.org), an organization de
 
 Wanna chat? Feel free to reach out! I'm on Github ([@fibanneacci](https://github.com/fibanneacci)), Medium ([@annelid](https://medium.com/@annelid)), Facebook, and LinkedIn.
 
-## 📠 Fun facts
+## 🤪 Fun facts
 
 - My full name (sans whitespace) is a prefix of "Annelid", an "elongated segmented coelomate invertebrate" (source: [Merriam-Webster](https://www.merriam-webster.com/dictionary/annelid))
+- I once tried to cook dandanmian, and substituted ghost-pepper sauce for chili oil, and tasting it made liquid stream from all my facial orifices simultaneously
+- I love Red Velvet (the artist, not the cake)
