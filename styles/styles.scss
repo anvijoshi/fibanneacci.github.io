@@ -111,11 +111,12 @@ img {
 // homepage greeting component
 .greeting-container {
   display: flex;
+  margin: 10;
 }
 
 .greeting-container h3 {
   align-self: center;
-  margin: 10;
+  margin: 0;
 }
 
 // blog page
