@@ -21,6 +21,9 @@ nav-links:
   - name: Projects
     url: /projects
     external: false
+  - name: Misc
+    url: /misc
+    external: false
 #  - name: Contact
 #    url: /contact
 #    external: false
