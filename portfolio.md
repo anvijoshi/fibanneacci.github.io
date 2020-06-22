@@ -1,6 +1,3 @@
----
----
-
 ## 👩🏻‍💻 What I'm doing
 
 This summer, I'm participating in Google's [Computer Science Summer Institute](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/), being mentored as part of the BUILT BY GIRLS [WAVE Program](https://www.builtbygirls.com/about-wave), and TAing for a coding / USACO camp.
