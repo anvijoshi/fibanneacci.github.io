@@ -13,7 +13,7 @@ In high school, I competed in coding contests, built mobile apps, and interned a
 
 I also co-founded [Allgirlithm](https://www.allgirlithm.org), an organization dedicated to making AI more accessible.
 
-## 👋🏻 Say hi
+## 👋 Say hi
 
 Wanna chat? Feel free to reach out! I'm on Github ([@fibanneacci](https://github.com/fibanneacci)), Medium ([@annelid](https://medium.com/@annelid)), Facebook, and LinkedIn.
 
