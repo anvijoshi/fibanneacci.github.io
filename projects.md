@@ -6,7 +6,7 @@ Here's a collection of stuff I'm passionate about!
 
 //
 
-You can see my full portfolio [here](/projects).
+Check out my full portfolio [here](/projects).
 
 ## 📝 Writing
 
