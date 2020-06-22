@@ -1,5 +1,3 @@
-([Link](fibanneacci.github.io) to website)
-
 # Point Theme
 
 Point is a [Jekyll](https://jekyllrb.com/) theme for personal websites that are simple and to the point.
