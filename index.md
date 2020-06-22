@@ -3,7 +3,7 @@
 
 ## 👩🏻‍💻 What I'm doing
 
-This summer, I'm participating in Google's [Computer Science Summer Institute](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/), being mentored as part of the BUILT BY GIRLS [WAVE Program](https://www.builtbygirls.com/about-wave), and TAing for a coding / USACO camp.
+This summer, I'm participating in Google's [Computer Science Summer Institute](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/){:target="_blank"}, being mentored as part of the BUILT BY GIRLS [WAVE Program](https://www.builtbygirls.com/about-wave), and TAing for a coding / USACO camp.
 
 This fall, I'll be attending Stanford University, where I plan to study some combination of tech and the humanities. I'm especially interested in data politics, AI ethics, and algorithmic bias.
 
@@ -20,4 +20,4 @@ Wanna chat? Feel free to reach out! I'm on Github ([@fibanneacci](https://github
 ## 🤪 Fun facts
 
 - My full name (sans whitespace) is a prefix of "Annelid", an "elongated segmented coelomate invertebrate" (source: [Merriam-Webster](https://www.merriam-webster.com/dictionary/annelid))
-- Once, I substituted ghost-pepper sauce for chili oil while cooking dandanmian; tasting it made liquid stream from all my facial orifices simultaneously
+- Once, I substituted ghost-pepper sauce for chili oil while cooking dandanmian, and tasting it made liquid stream from all my facial orifices simultaneously
