@@ -1,4 +1,4 @@
-Here's a collection of stuff I'm passionate about!
+Here's a collection of my work.
 
 ## 🖥️ Tech
 
