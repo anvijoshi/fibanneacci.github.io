@@ -15,9 +15,3 @@ Check out my full portfolio [here](/projects).
 //
 
 Read more [here](/projects).
-
-## 📰 Media
-
-//
-
-//
