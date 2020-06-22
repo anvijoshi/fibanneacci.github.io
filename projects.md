@@ -1,5 +1,4 @@
----
----
+Here's a collection of stuff I'm passionate about!
 
 ## 🖥️ Tech
 
