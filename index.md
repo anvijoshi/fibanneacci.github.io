@@ -3,7 +3,7 @@
 
 ## 👩🏻‍💻 What I'm doing
 
-This summer, I'm participating in Google's [Computer Science Summer Institute](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/), being mentored as part of the BUILT BY GIRLS [WAVE Program](https://www.builtbygirls.com/about-wave), and TAing for a coding / USACO camp.
+This summer, I'm TAing (and occasionally substitute-teaching) for a coding / USACO camp. I'm also being mentored as part of the BUILT BY GIRLS [WAVE Program](https://www.builtbygirls.com/about-wave).
 
 This fall, I'll be attending Stanford University, where I plan to study some combination of tech and the humanities. I'm especially interested in data politics, AI ethics, and algorithmic bias.
 
