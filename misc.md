@@ -2,7 +2,7 @@ Here's a collection of random stuff.
 
 ## 📚 Good / interesting reads
 
-- ["how to do nothing"](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) by Jenny Odell: my friend sent me this a few months ago! It's about, amongst other things, the capitalist destruction of "noncommercial" space & time, our social media culture of "connectivity" (as opposed to "sensitivity"), and how birdwatching increased the "granularity of (Odell's) perception". It's one of my favorite articles :)
+- ["how to do nothing"](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) by Jenny Odell: my friend sent me this a few months ago! It's about, amongst other things, the capitalist destruction of noncommercial space & time, our social media culture of "connectivity" (as opposed to "sensitivity"), and how birdwatching increased the "granularity of (Odell's) perception". It's one of my favorite articles :)
 - ["Miseducation"](https://www.theatlantic.com/entertainment/archive/2018/12/lauryn-hill-tara-westover-cameron-post-the-year-in-miseducation/579160/) by Matt Thompson for <i>The Atlantic</i>: same friend sent me this back in 2018; I reread it this year, and it's still relevant as ever&#151;especially in the context of the recent fight for local control of the LRSD, my high school's school district
 - ["My 7-Year Pursuit of How to Live"](https://angelama.blog/2018/12/19/the-year-my-life-got-stranger-than-fiction/) by Angela Ma, ["sellout's conundrum"](https://mitadmissions.org/blogs/entry/sellouts-conundrum/) by Rona Wang for the MIT Admissions blog, ["On purpose"](https://www.stanforddaily.com/2020/04/28/on-purpose/?fbclid=IwAR1B0gM59Xa9wojhPkQaP5YCx9rjPFma_UiOlLqPfcdu4A8t0X8YRLDieRw) by Conrad Milhaupt for the <i>Stanford Daily</i>
 
