@@ -1,4 +1,4 @@
-Here's a collection of my work.
+Here's a collection of my work (may take a second to load).
 
 <!--## 🖥️ Tech-->
 
