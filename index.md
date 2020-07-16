@@ -3,7 +3,7 @@
 
 ## 👩🏻‍💻 What I'm doing
 
-Currently, I'm working for a coding / USACO prep camp, TAing and occasionally substitute-teaching. I'm also being mentored as part of the BUILT BY GIRLS [WAVE Program](https://www.builtbygirls.com/about-wave). Later this summer, I'll be participating in [Jane Street's](https://www.janestreet.com) Women in STEM Event and speaking on a panel at [AI4All's](https://ai-4-all.org) Boston University summer camp.
+Currently, I'm working for a coding & USACO prep camp: TAing, creating instructional videos & activities,  and occasionally substitute-teaching. I'm also being mentored as part of the BUILT BY GIRLS [WAVE Program](https://www.builtbygirls.com/about-wave). Later this summer, I'll be participating in [Jane Street's](https://www.janestreet.com) Women in STEM Event and speaking on a panel at [AI4All's](https://ai-4-all.org) Boston University summer camp.
 
 This fall, I'll be attending Stanford University, where I plan to study some combination of tech and the humanities. I'm especially interested in data politics, AI ethics, and algorithmic bias, as well as issues involving voting and / or the criminal justice system.
 
